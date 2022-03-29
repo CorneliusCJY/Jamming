@@ -3,6 +3,8 @@ In this project, you will build a React web application called Jammming. You wil
 
 ## Technologies Used
 - Javascript (React)
+- HTML
+- CSS
 
 ## Deadline
 
